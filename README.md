@@ -22,6 +22,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**Taming Sparsely Activated Transformer with Stochastic Experts** [[pdf]](https://arxiv.org/abs/2110.04260) ICLR 2022
 
 	*Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao, Jianfeng Gao*
+	 
++	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
+
+	*Ze-Feng Gao, Peiyu Liu, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen*
 
 ### 2021
 
