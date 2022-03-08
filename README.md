@@ -26,6 +26,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
 
 	*Ze-Feng Gao, Peiyu Liu, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen*
+	
++	**One Model, Multiple Tasks: Pathways for Natural Language Understanding** [[pdf]](https://arxiv.org/abs/2203.03312) arXiv 2022
+
+	*Duyu Tang, Fan Zhang, Yong Dai, Cong Zhou, Shuangzhi Wu, Shuming Shi*
 
 ### 2021
 
