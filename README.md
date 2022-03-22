@@ -27,9 +27,9 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Ze-Feng Gao, Peiyu Liu, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen*
 	
-+	**One Model, Multiple Tasks: Pathways for Natural Language Understanding** [[pdf]](https://arxiv.org/abs/2203.03312) arXiv 2022
++	**Efficient Language Modeling with Sparse all-MLP** [[pdf]](https://arxiv.org/abs/2203.06850) arXiv 2022
 
-	*Duyu Tang, Fan Zhang, Yong Dai, Cong Zhou, Shuangzhi Wu, Shuming Shi*
+	*Ping Yu, Mikel Artetxe, Myle Ott, Sam Shleifer, Hongyu Gong, Ves Stoyanov, Xian Li*
 
 ### 2021
 
