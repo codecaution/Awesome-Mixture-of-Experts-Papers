@@ -22,14 +22,6 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**Taming Sparsely Activated Transformer with Stochastic Experts** [[pdf]](https://arxiv.org/abs/2110.04260) ICLR 2022
 
 	*Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao, Jianfeng Gao*
-	 
-+	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
-
-	*Ze-Feng Gao, Peiyu Liu, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen*
-	
-+	**Efficient Language Modeling with Sparse all-MLP** [[pdf]](https://arxiv.org/abs/2203.06850) arXiv 2022
-
-	*Ping Yu, Mikel Artetxe, Myle Ott, Sam Shleifer, Hongyu Gong, Ves Stoyanov, Xian Li*
 
 ### 2021
 
@@ -81,6 +73,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*James Urquhart Allingham, Florian Wenzel, Zelda E Mariet, Basil Mustafa, Joan Puigcerver, Neil Houlsby, Ghassen Jerfel, Vincent Fortuin, Balaji Lakshminarayanan, Jasper Snoek, Dustin Tran, Carlos Riquelme Ruiz, Rodolphe Jenatton*
 	
++	**MoEfication: Conditional Computation of Transformer Models for Efficient Inference** [[pdf]](https://arxiv.org/abs/2110.01786) arXiv 2021
+
+	*Zhengyan Zhang, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou*
+	
 ### 2019
 +	**Mixture Models for Diverse Machine Translation: Tricks of the Trade.** [[pdf](https://arxiv.org/abs/1902.07816)] ICML 2019
 
@@ -126,9 +122,14 @@ Thanks to all the people who made contributions to this project. We strongly enc
     *Suchin Gururangan, Mike Lewis, Ari Holtzman, Noah A. Smith, Luke Zettlemoyer*
 
 ### 2020
-+	**Multitask Mixture of Sequential Experts for User Activity Streams.**[[pdf](https://dl.acm.org/doi/10.1145/3394486.3403359)] SIGKDD 2020
+
++	**Multitask Mixture of Sequential Experts for User Activity Streams** [[pdf](https://dl.acm.org/doi/10.1145/3394486.3403359)] SIGKDD 2020
 
 	*Zhen Qin, Yicheng Cheng, Zhe Zhao, Zhe Chen, Donald Metzler, Jingzheng Qin*
+
++	**Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations** [[PDF]](https://dl.acm.org/doi/10.1145/3383313.3412236) RecSys 2020
+
+	*Hongyan Tang, Junning Liu, Ming Zhao, Xudong Gong*
 	
 ### 2018
 
