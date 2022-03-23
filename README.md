@@ -23,6 +23,14 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao, Jianfeng Gao*
 
++	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
+
+	*Ze-Feng Gao, Peiyu Liu, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen*
+
++	**Efficient Language Modeling with Sparse all-MLP** [[pdf]](https://arxiv.org/abs/2203.06850) arXiv 2022
+
+	*Ping Yu, Mikel Artetxe, Myle Ott, Sam Shleifer, Hongyu Gong, Ves Stoyanov, Xian Li*
+
 ### 2021
 
 + **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** [[pdf]](https://arxiv.org/abs/2101.03961) arXiv 2021
