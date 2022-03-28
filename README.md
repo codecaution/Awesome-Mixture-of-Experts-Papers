@@ -80,6 +80,11 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**Sparse MoEs meet Efficient Ensembles** [[pdf]](https://arxiv.org/abs/2110.03360) arXiv 2021
 
 	*James Urquhart Allingham, Florian Wenzel, Zelda E Mariet, Basil Mustafa, Joan Puigcerver, Neil Houlsby, Ghassen Jerfel, Vincent Fortuin, Balaji Lakshminarayanan, Jasper Snoek, Dustin Tran, Carlos Riquelme Ruiz, Rodolphe Jenatton*
+
++	**Towards More Effective and Economic Sparsely-Activated Model** [[pdf]](https://arxiv.org/abs/2110.07431) arXiv 2021
+
+	*Hao Jiang, Ke Zhan, Jianwei Qu, Yongkang Wu, Zhaoye Fei, Xinyu Zhang, Lei Chen, Zhicheng Dou, Xipeng Qiu, Zikai Guo, Ruofei Lai, Jiawen Wu, Enrui Hu, Yinxia Zhang, Yantao Jia, Fan Yu, Zhao Cao*
+
 	
 +	**MoEfication: Conditional Computation of Transformer Models for Efficient Inference** [[pdf]](https://arxiv.org/abs/2110.01786) arXiv 2021
 
@@ -102,6 +107,15 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale** [[pdf](https://arxiv.org/abs/2201.05596)] arXiv 2022
 
 	*Samyam Rajbhandari, Conglong Li, Zhewei Yao, Minjia Zhang, Reza Yazdani Aminabadi, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He*
+
++	**Alpa: Automating Inter- and Intra-Operator Parallelism for Distributed Deep Learning** [[pdf]](https://arxiv.org/abs/2201.12023) OSDI 2022
+	
+	*Lianmin Zheng, Zhuohan Li, Hao Zhang, Yonghao Zhuang, Zhifeng Chen, Yanping Huang, Yida Wang, Yuanzhong Xu, Danyang Zhuo, Joseph E. Gonzalez, Ion Stoica*
+	
++	**Pathways: Asynchronous Distributed Dataflow for ML** [[pdf]](https://arxiv.org/abs/2203.12533) MLSys 2022
+	
+	*Paul Barham, Aakanksha Chowdhery, Jeff Dean, Sanjay Ghemawat, Steven Hand, Dan Hurt, Michael Isard, Hyeontaek Lim, Ruoming Pang, Sudip Roy, Brennan Saeta, Parker Schuh, Ryan Sepassi, Laurent El Shafey, Chandramohan A. Thekkath, Yonghui Wu*
+
 
 ### 2021
 
