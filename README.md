@@ -1,11 +1,30 @@
-# Awesome-Mixture-of-Experts-Papers
+# Awesome-Mixture-of-Experts-Papers 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awesome-Mixture-of-Experts-Papers is a curated list of Mixture-of-Experts (MoE) papers in recent years. Star this repository, and then you can keep abreast of the latest developments of this booming research field.
 
 Thanks to all the people who made contributions to this project. We strongly encourage the researchers to make pull request (e.g., add missing papers, fix errors) and help the others in this community!
 
-## Algorithm
+# Contents
+- [Awesome-Mixture-of-Experts-Papers](#awesome-mixture-of-experts-papers)
+- [Contents](#contents)
+- [Paper](#paper)
+	- [Algorithm](#algorithm)
+		- [2022](#2022)
+		- [2021](#2021)
+		- [2019](#2019)
+		- [2017](#2017)
+	- [System](#system)
+		- [2022](#2022-1)
+		- [2021](#2021-1)
+	- [Application](#application)
+		- [2021](#2021-2)
+		- [2020](#2020)
+		- [2018](#2018)
+- [Open-Source System](#open-source-system)
 
+# Paper
+## Algorithm
 ### 2022
 +	**Unified Scaling Laws for Routed Language Models** [[pdf]](https://arxiv.org/abs/2202.01169) arXiv 2022
 
@@ -23,6 +42,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao, Jianfeng Gao*
 
++  **Go Wider Instead of Deeper** [[pdf]](https://arxiv.org/abs/2107.11817) AAAI 2022
+
+	*Fuzhao Xue, Ziji Shi, Futao Wei, Yuxuan Lou, Yong Liu, Yang You*
+
 +	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
 
 	*Ze-Feng Gao, Peiyu Liu, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen*
@@ -31,8 +54,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Ping Yu, Mikel Artetxe, Myle Ott, Sam Shleifer, Hongyu Gong, Ves Stoyanov, Xian Li*
 
++ **One Student Knows All Experts Know: From Sparse to Dense**[[pdf]](https://arxiv.org/abs/2201.10890) arXiv 2022
+	*Fuzhao Xue, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You*
 ### 2021
-
+	
 + **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** [[pdf]](https://arxiv.org/abs/2101.03961) arXiv 2021
 
 	*William Fedus, Barret Zoph, Noam Shazeer*
@@ -85,11 +110,14 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Hao Jiang, Ke Zhan, Jianwei Qu, Yongkang Wu, Zhaoye Fei, Xinyu Zhang, Lei Chen, Zhicheng Dou, Xipeng Qiu, Zikai Guo, Ruofei Lai, Jiawen Wu, Enrui Hu, Yinxia Zhang, Yantao Jia, Fan Yu, Zhao Cao*
 
-	
 +	**MoEfication: Conditional Computation of Transformer Models for Efficient Inference** [[pdf]](https://arxiv.org/abs/2110.01786) arXiv 2021
 
 	*Zhengyan Zhang, Yankai Lin, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou*
 	
++  **Cross-token Modeling with Conditional Computation** [[pdf]](https://arxiv.org/abs/2109.02008) arXiv 2021
+
+	*Yuxuan Lou, Fuzhao Xue, Zangwei Zheng, Yang You*
+
 ### 2019
 +	**Mixture Models for Diverse Machine Translation: Tricks of the Trade.** [[pdf](https://arxiv.org/abs/1902.07816)] ICML 2019
 
@@ -101,7 +129,6 @@ Thanks to all the people who made contributions to this project. We strongly enc
    *Noam Shazeer, Azalia Mirhoseini, Krzysztof Maziarz, Andy Davis, Quoc Le, Geoffrey Hinton, Jeff Dean*
 
 ## System
-
 ### 2022
 
 +	**DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale** [[pdf](https://arxiv.org/abs/2201.05596)] arXiv 2022
@@ -115,6 +142,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**Pathways: Asynchronous Distributed Dataflow for ML** [[pdf]](https://arxiv.org/abs/2203.12533) MLSys 2022
 	
 	*Paul Barham, Aakanksha Chowdhery, Jeff Dean, Sanjay Ghemawat, Steven Hand, Dan Hurt, Michael Isard, Hyeontaek Lim, Ruoming Pang, Sudip Roy, Brennan Saeta, Parker Schuh, Ryan Sepassi, Laurent El Shafey, Chandramohan A. Thekkath, Yonghui Wu*
+
++  **HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System** [[pdf]](https://arxiv.org/abs/2203.14685) arXiv 2022
+  
+	*Xiaonan Nie, Pinxue Zhao, Xupeng Miao, Tong Zhao, Bin Cui*
 
 
 ### 2021
@@ -158,5 +189,11 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts** [[pdf](https://dl.acm.org/doi/10.1145/3219819.3220007)] SIGKDD 2018
 
 	*Jiaqi Ma, Zhe Zhao, Xinyang Yi, Jilin Chen, Lichan Hong, Ed Chi*
+
+# Open-Source System
++ **Tutel: An efficient mixture-of-experts implementation for large DNN model training** [[blog](https://www.microsoft.com/en-us/research/blog/tutel-an-efficient-mixture-of-experts-implementation-for-large-dnn-model-training/)] [[github](https://github.com/microsoft/tutel)] MSRA
++ **Deepspeed-MoE:Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale** [[github](https://github.com/microsoft/DeepSpeed)] Microsoft DeepSpeed 
++ **FastMoE: A Fast Mixture-of-Expert Training System** [[github](https://github.com/laekov/fastmoe)] Tsinghua University
++ **HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System** [[github](https://github.com/PKU-DAIR/Hetu)] Peking University
 
 Contributed by [Xiaonan Nie](https://github.com/codecaution), [Xupeng Miao](https://github.com/Hsword), Qibin Liu and [Hetu](https://github.com/PKU-DAIR/Hetu) team members.
