@@ -131,7 +131,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 ## System
 ### 2022
 
-+   **FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3503221.3508418)] PPoPP 2022
++   **FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3503221.3508418)] [[code](https://github.com/laekov/fastermoe-ae)] PPoPP 2022
 
 	*Jiaao He, Jidong Zhai, Tiago Antunes, Haojie Wang, Fuwen Luo, Shangfeng Shi, Qin Li*
 
