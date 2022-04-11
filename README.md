@@ -131,6 +131,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 ## System
 ### 2022
 
++   **FasterMoE: modeling and optimizing training of large-scale dynamic pre-trained models.** [[pdf](https://dl.acm.org/doi/abs/10.1145/3503221.3508418)] PPoPP 2022
+
+	*Jiaao He, Jidong Zhai, Tiago Antunes, Haojie Wang, Fuwen Luo, Shangfeng Shi, Qin Li*
+
 +	**DeepSpeed-MoE: Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale** [[pdf](https://arxiv.org/abs/2201.05596)] arXiv 2022
 
 	*Samyam Rajbhandari, Conglong Li, Zhewei Yao, Minjia Zhang, Reza Yazdani Aminabadi, Ammar Ahmad Awan, Jeff Rasley, Yuxiong He*
@@ -180,7 +184,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Zhen Qin, Yicheng Cheng, Zhe Zhao, Zhe Chen, Donald Metzler, Jingzheng Qin*
 
-+	**Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations** [[PDF]](https://dl.acm.org/doi/10.1145/3383313.3412236) RecSys 2020
++	**Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations** [[pdf]](https://dl.acm.org/doi/10.1145/3383313.3412236) RecSys 2020
 
 	*Hongyan Tang, Junning Liu, Ming Zhao, Xudong Gong*
 	
