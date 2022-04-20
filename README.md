@@ -46,6 +46,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Fuzhao Xue, Ziji Shi, Futao Wei, Yuxuan Lou, Yong Liu, Yang You*
 
++ **StableMoE: Stable Routing Strategy for Mixture of Experts**[[pdf]](https://arxiv.org/abs/2204.08396) ACL 2022
+
+	*Damai Dai, Li Dong, Shuming Ma, Bo Zheng, Zhifang Sui, Baobao Chang, Furu Wei*
+
 +	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
 
 	*Ze-Feng Gao, Peiyu Liu, Wayne Xin Zhao, Zhong-Yi Lu, Ji-Rong Wen*
@@ -55,7 +59,9 @@ Thanks to all the people who made contributions to this project. We strongly enc
 	*Ping Yu, Mikel Artetxe, Myle Ott, Sam Shleifer, Hongyu Gong, Ves Stoyanov, Xian Li*
 
 + **One Student Knows All Experts Know: From Sparse to Dense**[[pdf]](https://arxiv.org/abs/2201.10890) arXiv 2022
+
 	*Fuzhao Xue, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You*
+
 ### 2021
 	
 + **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** [[pdf]](https://arxiv.org/abs/2101.03961) arXiv 2021
