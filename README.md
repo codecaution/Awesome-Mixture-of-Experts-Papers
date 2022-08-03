@@ -42,11 +42,11 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao, Jianfeng Gao*
 
-+  **Go Wider Instead of Deeper** [[pdf]](https://arxiv.org/abs/2107.11817) AAAI 2022
++	**Go Wider Instead of Deeper** [[pdf]](https://arxiv.org/abs/2107.11817) AAAI 2022
 
 	*Fuzhao Xue, Ziji Shi, Futao Wei, Yuxuan Lou, Yong Liu, Yang You*
 
-+ **StableMoE: Stable Routing Strategy for Mixture of Experts**[[pdf]](https://arxiv.org/abs/2204.08396) ACL 2022
++	**StableMoE: Stable Routing Strategy for Mixture of Experts**[[pdf]](https://arxiv.org/abs/2204.08396) ACL 2022
 
 	*Damai Dai, Li Dong, Shuming Ma, Bo Zheng, Zhifang Sui, Baobao Chang, Furu Wei*
 
@@ -58,13 +58,21 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Ping Yu, Mikel Artetxe, Myle Ott, Sam Shleifer, Hongyu Gong, Ves Stoyanov, Xian Li*
 
-+ **One Student Knows All Experts Know: From Sparse to Dense**[[pdf]](https://arxiv.org/abs/2201.10890) arXiv 2022
++	**One Student Knows All Experts Know: From Sparse to Dense**[[pdf]](https://arxiv.org/abs/2201.10890) arXiv 2022
 
 	*Fuzhao Xue, Xiaoxin He, Xiaozhe Ren, Yuxuan Lou, Yang You*
 
++	**MoEC: Mixture of Expert Clusters**[[pdf]](https://arxiv.org/abs/2207.09094) arXiv 2022
+
+	*Yuan Xie, Shaohan Huang, Tianyu Chen, Furu Wei*
+	
++	**On the Representation Collapse of Sparse Mixture of Experts** [[pdf]](https://arxiv.org/abs/2204.09179) arXiv 2022
+
+	*Zewen Chi, Li Dong, Shaohan Huang, Damai Dai, Shuming Ma, Barun Patra, Saksham Singhal, Payal Bajaj, Xia Song, Furu Wei*
+
 ### 2021
 	
-+ **Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** [[pdf]](https://arxiv.org/abs/2101.03961) arXiv 2021
++	**Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity** [[pdf]](https://arxiv.org/abs/2101.03961) arXiv 2021
 
 	*William Fedus, Barret Zoph, Noam Shazeer*
 
@@ -157,6 +165,9 @@ Thanks to all the people who made contributions to this project. We strongly enc
   
 	*Xiaonan Nie, Pinxue Zhao, Xupeng Miao, Tong Zhao, Bin Cui*
 
++	**Tutel: Adaptive Mixture-of-Experts at Scale** [[pdf]](https://arxiv.org/abs/2206.03382) arXiv 2022
+
+	*Changho Hwang, Wei Cui, Yifan Xiong, Ziyue Yang, Ze Liu, Han Hu, Zilong Wang, Rafael Salas, Jithin Jose, Prabhat Ram, Joe Chau, Peng Cheng, Fan Yang, Mao Yang, Yongqiang Xiong*
 
 ### 2021
 
@@ -166,6 +177,12 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 ## Application
 
+### 2022
+
++	**Learning Large-scale Universal User Representation with Sparse Mixture of Experts** [[pdf]](https://arxiv.org/abs/2207.04648) ICML 2022
+
+	*Caigao Jiang, Siqiao Xue, James Zhang, Lingyue Liu, Zhibo Zhu, Hongyan Hao*
+	
 ### 2021
 
 +	**Video Recommendation with Multi-gate Mixture of Experts Soft Actor Critic** [[pdf](https://dl.acm.org/doi/abs/10.1145/3397271.3401238)] SIGIR 2021
