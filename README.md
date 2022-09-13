@@ -46,9 +46,13 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Fuzhao Xue, Ziji Shi, Futao Wei, Yuxuan Lou, Yong Liu, Yang You*
 
-+	**StableMoE: Stable Routing Strategy for Mixture of Experts**[[pdf]](https://arxiv.org/abs/2204.08396) ACL 2022
++	**StableMoE: Stable Routing Strategy for Mixture of Experts**[[pdf]](https://arxiv.org/abs/2204.08396) [[code]](https://github.com/Hunter-DDM/stablemoe) ACL 2022
 
 	*Damai Dai, Li Dong, Shuming Ma, Bo Zheng, Zhifang Sui, Baobao Chang, Furu Wei*
+
++	**A Theoretical View on Sparsely Activated Networks**[[pdf]](https://dynn-icml2022.github.io/spapers/paper_4.pdf) [[poster]](https://dynn-icml2022.github.io/sposters/paper_4.pdf) ICML 2022 Workshop
+
+	*Cenk Baykal, Nishanth Dikkala, Rina Panigrahy, Cyrus Rashtchian, Xin Wang*
 
 +	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
 
@@ -69,6 +73,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**On the Representation Collapse of Sparse Mixture of Experts** [[pdf]](https://arxiv.org/abs/2204.09179) arXiv 2022
 
 	*Zewen Chi, Li Dong, Shaohan Huang, Damai Dai, Shuming Ma, Barun Patra, Saksham Singhal, Payal Bajaj, Xia Song, Furu Wei*
+
++	**A Review of Sparse Expert Models in Deep Learning** [[pdf]](https://arxiv.org/abs/2204.09179) arXiv 2022
+
+	*William Fedus, Jeff Dean, Barret Zoph*
 
 ### 2021
 	
