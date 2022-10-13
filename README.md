@@ -18,6 +18,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 		- [2022](#2022-1)
 		- [2021](#2021-1)
 	- [Application](#application)
+		- [2022](#2022-2)
 		- [2021](#2021-2)
 		- [2020](#2020)
 		- [2018](#2018)
@@ -26,18 +27,6 @@ Thanks to all the people who made contributions to this project. We strongly enc
 # Paper
 ## Algorithm
 ### 2022
-+	**Unified Scaling Laws for Routed Language Models** [[pdf]](https://arxiv.org/abs/2202.01169) arXiv 2022
-
-	*Aidan Clark, Diego de las Casas, Aurelia Guy, Arthur Mensch, Michela Paganini, Jordan Hoffmann, Bogdan Damoc, Blake Hechtman, Trevor Cai, Sebastian Borgeaud, George van den Driessche, Eliza Rutherford, Tom Hennigan, Matthew Johnson, Katie Millican, Albin Cassirer, Chris Jones, Elena Buchatskaya, David Budden, Laurent Sifre, Simon Osindero, Oriol Vinyals, Jack Rae, Erich Elsen, Koray Kavukcuoglu, Karen Simonyan*
-
-+	**Designing Effective Sparse Expert Models** [[pdf]](https://arxiv.org/abs/2202.08906) arXiv 2022
-
-	*Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus*
-
-+	**Mixture-of-Experts with Expert Choice Routing** [[pdf]](https://arxiv.org/abs/2202.09368) arXiv 2022
-
-	*Yanqi Zhou, Tao Lei, Hanxiao Liu, Nan Du, Yanping Huang, Vincent Zhao, Andrew Dai, Zhifeng Chen, Quoc Le, James Laudon*
-
 +	**Taming Sparsely Activated Transformer with Stochastic Experts** [[pdf]](https://arxiv.org/abs/2110.04260) ICLR 2022
 
 	*Simiao Zuo, Xiaodong Liu, Jian Jiao, Young Jin Kim, Hany Hassan, Ruofei Zhang, Tuo Zhao, Jianfeng Gao*
@@ -53,6 +42,18 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**A Theoretical View on Sparsely Activated Networks**[[pdf]](https://dynn-icml2022.github.io/spapers/paper_4.pdf) [[poster]](https://dynn-icml2022.github.io/sposters/paper_4.pdf) ICML 2022 Workshop
 
 	*Cenk Baykal, Nishanth Dikkala, Rina Panigrahy, Cyrus Rashtchian, Xin Wang*
+
++	**Unified Scaling Laws for Routed Language Models** [[pdf]](https://arxiv.org/abs/2202.01169) arXiv 2022
+
+	*Aidan Clark, Diego de las Casas, Aurelia Guy, Arthur Mensch, Michela Paganini, Jordan Hoffmann, Bogdan Damoc, Blake Hechtman, Trevor Cai, Sebastian Borgeaud, George van den Driessche, Eliza Rutherford, Tom Hennigan, Matthew Johnson, Katie Millican, Albin Cassirer, Chris Jones, Elena Buchatskaya, David Budden, Laurent Sifre, Simon Osindero, Oriol Vinyals, Jack Rae, Erich Elsen, Koray Kavukcuoglu, Karen Simonyan*
+
++	**Designing Effective Sparse Expert Models** [[pdf]](https://arxiv.org/abs/2202.08906) arXiv 2022
+
+	*Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus*
+
++	**Mixture-of-Experts with Expert Choice Routing** [[pdf]](https://arxiv.org/abs/2202.09368) arXiv 2022
+
+	*Yanqi Zhou, Tao Lei, Hanxiao Liu, Nan Du, Yanping Huang, Vincent Zhao, Andrew Dai, Zhifeng Chen, Quoc Le, James Laudon*
 
 +	**Parameter-Efficient Mixture-of-Experts Architecture for Pre-trained Language Models** [[pdf]](https://arxiv.org/abs/2203.01104) arXiv 2022
 
@@ -77,6 +78,22 @@ Thanks to all the people who made contributions to this project. We strongly enc
 +	**A Review of Sparse Expert Models in Deep Learning** [[pdf]](https://arxiv.org/abs/2204.09179) arXiv 2022
 
 	*William Fedus, Jeff Dean, Barret Zoph*
+
++  **EvoMoE: An Evolutional Mixture-of-Experts Training Framework via Dense-To-Sparse Gate** [[pdf]](https://arxiv.org/abs/2112.14397)
+
+	*Xiaonan Nie, Xupeng Miao, Shijie Cao, Lingxiao Ma, Qibin Liu, Jilong Xue, Youshan Miao, Yi Liu, Zhi Yang, Bin Cui*
+
++  **muNet: Evolving Pretrained Deep Neural Networks into Scalable Auto-tuning Multitask Systems** [[pdf]](https://arxiv.org/abs/2205.10937)
+
+	*Andrea Gesmundo, Jeff Dean*
+
++  **Multimodal Contrastive Learning with LIMoE: the Language-Image Mixture of Experts** [[pdf]](https://arxiv.org/abs/2206.02770)
+
+    *Basil Mustafa, Carlos Riquelme, Joan Puigcerver, Rodolphe Jenatton, Neil Houlsby*
+
++  **ST-MoE: Designing Stable and Transferable Sparse Expert Models** [[pdf]](https://arxiv.org/abs/2202.08906)
+
+	*Barret Zoph, Irwan Bello, Sameer Kumar, Nan Du, Yanping Huang, Jeff Dean, Noam Shazeer, William Fedus*
 
 ### 2021
 	
@@ -116,6 +133,10 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Mike Lewis, Shruti Bhosale, Tim Dettmers, Naman Goyal, Luke Zettlemoyer*
   
++   **Unbiased Gradient Estimation with Balanced Assignments for Mixtures of Experts** [[pdf]](https://arxiv.org/abs/2109.11817) NeurIPS 2021 Workshop
+    
+	*Wouter Kool, Chris J. Maddison, Andriy Mnih*
+
 +	**M6-T: Exploring Sparse Expert Models and Beyond** [[pdf](https://arxiv.org/abs/2105.15082)] arXiv 2021
 
 	*An Yang, Junyang Lin, Rui Men, Chang Zhou, Le Jiang, Xianyan Jia, Ang Wang, Jie Zhang, Jiamang Wang, Yong Li, Di Zhang, Wei Lin, Lin Qu, Jingren Zhou, Hongxia Yang*
