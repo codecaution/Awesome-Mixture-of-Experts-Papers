@@ -79,7 +79,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 	*Zewen Chi, Li Dong, Shaohan Huang, Damai Dai, Shuming Ma, Barun Patra, Saksham Singhal, Payal Bajaj, Xia Song, Furu Wei*
 
-+	**A Review of Sparse Expert Models in Deep Learning** [[pdf]](https://arxiv.org/abs/2204.09179) arXiv 2022
++	**A Review of Sparse Expert Models in Deep Learning** [[pdf]](https://arxiv.org/abs/2209.01667) arXiv 2022
 
 	*William Fedus, Jeff Dean, Barret Zoph*
 
