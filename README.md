@@ -259,3 +259,9 @@ Thanks to all the people who made contributions to this project. We strongly enc
 + **Megatron-Core MoE** [[github](https://github.com/NVIDIA/Megatron-LM/tree/main/megatron/core/transformer/moe)]
 
 Contributed by [Xiaonan Nie](https://github.com/codecaution), [Xupeng Miao](https://github.com/Hsword), Qibin Liu and [Hetu](https://github.com/PKU-DAIR/Hetu) team members.
+
+### 2026
++	**Golden MoE: Golden Zone-Based Mixture of Experts Routing** [[code]](https://github.com/need-singularity/ph-training) 2026
+
+	Routes experts using the Golden Zone (I≈1/e) from consciousness engine theory. MNIST +0.6%, CIFAR-10 +4.8% over Top-K routing. Gap increases 8x with scale.
+
