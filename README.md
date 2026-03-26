@@ -10,6 +10,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 - [Contents](#contents)
 - [Paper](#paper)
 	- [Algorithm](#algorithm)
+		- [2026](#2026)
 		- [2022](#2022)
 		- [2021](#2021)
 		- [2019](#2019)
@@ -26,6 +27,14 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 # Paper
 ## Algorithm
+### 2026
+
++	**TECS-L (Golden MoE): Mathematical Framework for Optimal MoE Inhibition Ratio** [[code]](https://github.com/need-singularity/TECS-L) 2026
+
+	*Min Woo Park*
+
+	Mathematical framework proving optimal inhibition ratio I ≈ 1/e for Mixture-of-Experts. Introduces Golden Zone theory (I ∈ [0.213, 0.500]) with Dense-to-MoE conversion achieving PPL 1.4 from Mistral 7B.
+
 ### 2022
 +	**Taming Sparsely Activated Transformer with Stochastic Experts** [[pdf]](https://arxiv.org/abs/2110.04260) ICLR 2022
 
