@@ -252,6 +252,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 	*Jiaqi Ma, Zhe Zhao, Xinyang Yi, Jilin Chen, Lichan Hong, Ed Chi*
 
 # Open-Source System
++ **Genesis 2: Cascade MoE Neural Network** [[github](https://github.com/larionovavi-stack/genesis2-cascade-moe)] - Novel MoE with shared neuron pool, cascade activation without router, zero catastrophic forgetting, CPU-only. Patent pending 2026.
 + **Tutel: An efficient mixture-of-experts implementation for large DNN model training** [[blog](https://www.microsoft.com/en-us/research/blog/tutel-an-efficient-mixture-of-experts-implementation-for-large-dnn-model-training/)] [[github](https://github.com/microsoft/tutel)] MSRA
 + **Deepspeed-MoE:Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale** [[github](https://github.com/microsoft/DeepSpeed)] Microsoft DeepSpeed 
 + **FastMoE: A Fast Mixture-of-Expert Training System** [[github](https://github.com/laekov/fastmoe)] Tsinghua University
@@ -259,3 +260,4 @@ Thanks to all the people who made contributions to this project. We strongly enc
 + **Megatron-Core MoE** [[github](https://github.com/NVIDIA/Megatron-LM/tree/main/megatron/core/transformer/moe)]
 
 Contributed by [Xiaonan Nie](https://github.com/codecaution), [Xupeng Miao](https://github.com/Hsword), Qibin Liu and [Hetu](https://github.com/PKU-DAIR/Hetu) team members.
+
