@@ -257,5 +257,6 @@ Thanks to all the people who made contributions to this project. We strongly enc
 + **FastMoE: A Fast Mixture-of-Expert Training System** [[github](https://github.com/laekov/fastmoe)] Tsinghua University
 + **HetuMoE: An Efficient Trillion-scale Mixture-of-Expert Distributed Training System** [[github](https://github.com/PKU-DAIR/Hetu)] Peking University
 + **Megatron-Core MoE** [[github](https://github.com/NVIDIA/Megatron-LM/tree/main/megatron/core/transformer/moe)]
++ **Anatomy of a high-performance EP kernel** [[blog](https://blog.doubleword.ai/anatomy-of-a-high-performance-ep-kernel)] Doubleword
 
 Contributed by [Xiaonan Nie](https://github.com/codecaution), [Xupeng Miao](https://github.com/Hsword), Qibin Liu and [Hetu](https://github.com/PKU-DAIR/Hetu) team members.
