@@ -10,6 +10,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 - [Contents](#contents)
 - [Paper](#paper)
 	- [Algorithm](#algorithm)
+		- [2026](#2026)
 		- [2022](#2022)
 		- [2021](#2021)
 		- [2019](#2019)
@@ -26,6 +27,11 @@ Thanks to all the people who made contributions to this project. We strongly enc
 
 # Paper
 ## Algorithm
+### 2026
++	**MAPLE: Manifold-Activated Pruning of Latent Experts for Sub-2-BPW Mixture-of-Experts Language Models** [[pdf]](https://doi.org/10.5281/zenodo.24042480) [[code]](https://github.com/AmSach/maple) Preprint 2026
+
+	*Aman Sachan*
+
 ### 2022
 +	**Taming Sparsely Activated Transformer with Stochastic Experts** [[pdf]](https://arxiv.org/abs/2110.04260) ICLR 2022
 
@@ -252,6 +258,7 @@ Thanks to all the people who made contributions to this project. We strongly enc
 	*Jiaqi Ma, Zhe Zhao, Xinyang Yi, Jilin Chen, Lichan Hong, Ed Chi*
 
 # Open-Source System
++ **MAPLE: Manifold-Activated Pruning of Latent Experts for Sub-2-BPW Mixture-of-Experts Language Models** [[paper]](https://doi.org/10.5281/zenodo.24042480) [[github]](https://github.com/AmSach/maple)
 + **Tutel: An efficient mixture-of-experts implementation for large DNN model training** [[blog](https://www.microsoft.com/en-us/research/blog/tutel-an-efficient-mixture-of-experts-implementation-for-large-dnn-model-training/)] [[github](https://github.com/microsoft/tutel)] MSRA
 + **Deepspeed-MoE:Advancing Mixture-of-Experts Inference and Training to Power Next-Generation AI Scale** [[github](https://github.com/microsoft/DeepSpeed)] Microsoft DeepSpeed 
 + **FastMoE: A Fast Mixture-of-Expert Training System** [[github](https://github.com/laekov/fastmoe)] Tsinghua University
